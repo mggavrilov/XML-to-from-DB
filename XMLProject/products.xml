@@ -1,0 +1,95 @@
+
+<products>
+    <product id="p1" vendorId="v1">
+        <name>Intel i7-7700k</name>
+        <description>Intel® Core™ i7-7700K Processor
+8M Cache, up to 4.50 GHz</description>
+        <price>350.0</price>
+        <quantity>10</quantity>
+    </product>
+    <product id="p2" vendorId="v1">
+        <name>Asus GeForce GTX 1080 Ti</name>
+        <description>ASUS GeForce GTX 1080 Ti 11GB GDDR5X 352bit PCIe (ROG-STRIX-GTX1080TI-O11G-GAMING)</description>
+        <price>799.99</price>
+        <quantity>15</quantity>
+    </product>
+    <product id="p3" vendorId="v1">
+        <name>Corsair Vengeance DDR4 RAM 16GB</name>
+        <description>Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3000MHz C15 Desktop Memory Kit - Black (CMK16GX4M2B3000C15)</description>
+        <price>204.99</price>
+        <quantity>16</quantity>
+    </product>
+    <product id="p4" vendorId="v1">
+        <name>ASUS ROG Maximus X Hero Motherboard</name>
+        <description>ASUS ROG Maximus X Hero (Wi-Fi AC) LGA1151 DDR4 DP HDMI M.2 Z370 ATX Motherboard with onboard 802.11ac WiFi, Gigabit LAN and USB 3.1 for 8th Generation Intel Core Processors</description>
+        <price>259.99</price>
+        <quantity>7</quantity>
+    </product>
+    <product id="p5" vendorId="v1">
+        <name>Cooler Master V1200 Power Supply</name>
+        <description>Cooler Master V1200 - Fully Modular 1200W 80 PLUS Platinum PSU with Silent Fanless Mode Operation (6th Generation Skylake Ready)</description>
+        <price>299.99</price>
+        <quantity>14</quantity>
+    </product>
+    <product id="p6" vendorId="v2">
+        <name>Intel i7-7700k</name>
+        <description>Intel® Core™ i7-7700K Processor
+8M Cache, up to 4.50 GHz</description>
+        <price>334.23</price>
+        <quantity>8</quantity>
+    </product>
+    <product id="p7" vendorId="v2">
+        <name>Asus GeForce GTX 1080 Ti</name>
+        <description>ASUS GeForce GTX 1080 Ti 11GB GDDR5X 352bit PCIe (ROG-STRIX-GTX1080TI-O11G-GAMING)</description>
+        <price>840.29</price>
+        <quantity>20</quantity>
+    </product>
+    <product id="p8" vendorId="v2">
+        <name>Kingston HyperX FURY DDR4 RAM 8GB</name>
+        <description>Kingston HyperX FURY Black 8GB Kit (2x4GB) 2133MHz DDR4 Non-ECC CL14 DIMM Desktop Memory (HX421C14FBK2/8)</description>
+        <price>199.99</price>
+        <quantity>12</quantity>
+    </product>
+    <product id="p9" vendorId="v2">
+        <name>Gigabyte X299 AORUS Gaming 7</name>
+        <description>GIGABYTE X299 AORUS Gaming 7 (Intel LGA 2066 Core i9/ ATX/ 3 M.2/ Front USB 3.1 /ESS Sabre Audio /RGB Fusion/Dual LAN / Killer WIFI /3 Way SLI Motherboard)</description>
+        <price>399.99</price>
+        <quantity>25</quantity>
+    </product>
+    <product id="p10" vendorId="v2">
+        <name>Cooler Master V1200 Power Supply</name>
+        <description>Cooler Master V1200 - Fully Modular 1200W 80 PLUS Platinum PSU with Silent Fanless Mode Operation (6th Generation Skylake Ready)</description>
+        <price>289.99</price>
+        <quantity>30</quantity>
+    </product>
+    <product id="p11" vendorId="v3">
+        <name>Intel i7-6700k</name>
+        <description>Intel Core i7 6700K 4.00 GHz Unlocked Quad Core Skylake Desktop Processor, Socket LGA 1151 [BX80662I76700K]</description>
+        <price>332.79</price>
+        <quantity>11</quantity>
+    </product>
+    <product id="p12" vendorId="v3">
+        <name>Asus GeForce GTX 1080 Ti</name>
+        <description>ASUS GeForce GTX 1080 Ti 11GB GDDR5X 352bit PCIe (ROG-STRIX-GTX1080TI-O11G-GAMING)</description>
+        <price>800.35</price>
+        <quantity>6</quantity>
+    </product>
+    <product id="p13" vendorId="v3">
+        <name>Kingston HyperX FURY DDR4 RAM 8GB</name>
+        <description>Kingston HyperX FURY Black 8GB Kit (2x4GB) 2133MHz DDR4 Non-ECC CL14 DIMM Desktop Memory (HX421C14FBK2/8)</description>
+        <price>205.38</price>
+        <quantity>45</quantity>
+    </product>
+    <product id="p14" vendorId="v3">
+        <name>Gigabyte X299 AORUS Gaming 7</name>
+        <description>GIGABYTE X299 AORUS Gaming 7 (Intel LGA 2066 Core i9/ ATX/ 3 M.2/ Front USB 3.1 /ESS Sabre Audio /RGB Fusion/Dual LAN / Killer WIFI /3 Way SLI Motherboard)</description>
+        <price>381.99</price>
+        <quantity>13</quantity>
+    </product>
+    <product id="p15" vendorId="v3">
+        <name>EVGA SuperNOVA 850 Platinum 850W</name>
+        <description>EVGA SuperNOVA 850 P2, 80+ PLATINUM 850W , Fully Modular , EVGA ECO Mode, 10 Year Warranty , Includes FREE Power On Self Tester, Power Supply 220-P2-0850-X1</description>
+        <price>154.95</price>
+        <quantity>17</quantity>
+    </product>
+</products>

@@ -1,0 +1,15 @@
+
+<vendors>
+    <vendor id="v1">
+        <name>Amazon</name>
+        <address>Seattle, Washington</address>
+    </vendor>
+    <vendor id="v2">
+        <name>eBay</name>
+        <address>San Jose, California</address>
+    </vendor>
+    <vendor id="v3">
+        <name>Newegg</name>
+        <address>City of Industry, California</address>
+    </vendor>
+</vendors>

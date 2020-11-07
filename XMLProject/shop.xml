@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE shop SYSTEM "shop.dtd">
+<shop>
+	&vendorsfile;
+	&productsfile;
+</shop>
